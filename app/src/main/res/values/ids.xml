@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="editColor" type="id" />
-    <item name="editAnio" type="id" />
-    <item name="editPrecio" type="id" />
-    <item name="buttonGuardar" type="id" />
-    <item name="buttonMostrar" type="id" />
-    <item name="buttonEliminar" type="id" />
-</resources>

@@ -1,6 +1,0 @@
-package hn.uth.ventadecarros;
-
-import android.app.Activity;
-
-public class MainActivity extends Activity {
-}
